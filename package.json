@@ -1,0 +1,12 @@
+{
+  "name": "eth-ut-bot-telegram",
+  "version": "1.0.0",
+  "description": "ETH/USDT UT Bot Telegram alerts",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
